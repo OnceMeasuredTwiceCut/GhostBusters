@@ -6,7 +6,7 @@ Hello and welcome to Once Measured Twice Cut's Ghostbuster's Repository!
 
 For convince, I've made it so you have two options. You can either follow and solder along with a picture of the circuit design or download and read the circuit schematic. 
 
-In the pictures I've marked the different arduinos with the corresponding file name of the program you should download to them.
+In the pictures I've marked the different arduinos with the corresponding file name of the program you should download to them. While the Arduinos displayed are depicted to be Arduino Unos, we used Arduino Nanos in our designs. Tinkercad only has Arduino Uno as an option for pictures of Arduinos.
 
 ### Ethan's Pack
 
@@ -29,3 +29,7 @@ NeoPixel Strip 6 |LED MiddleLight_2, LED MiddleLight_1 |	2
 5 Volt Battery | BAT 5 volt Battery |	1	
 
 ## Notes
+
+While the Arduinos displayed are depicted to be Arduino Unos, we used Arduino Nanos in our designs. Tinkercad only has Arduino Uno as an option for pictures of Arduinos.
+
+Similarly, the battery depicted in both pack is a 3v battery. We used a 5v battery but, Tinkercad does not have the option to display a battery larger than 3 volts. Use a 5v battery when connecting the components together
