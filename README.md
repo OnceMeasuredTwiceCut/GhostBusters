@@ -2,9 +2,11 @@
 Hello and welcome to Once Measured Twice Cut's Ghostbuster's Repository!
 
 ## Circuit Diagrams and Pictures
-For Convience, I've made it so you have two options. You can either follow and solder along with a picture of the circuit design or download and read the circuit schematic. 
 
-In the pictures I've marked the different arduinos/components with the coresponding file name of the program you should download to them. For each arduino, there is one file to download and upload.
+
+For convince, I've made it so you have two options. You can either follow and solder along with a picture of the circuit design or download and read the circuit schematic. 
+
+In the pictures I've marked the different arduinos with the corresponding file name of the program you should download to them.
 
 ### Ethan's Pack
 
